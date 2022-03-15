@@ -1,4 +1,7 @@
+Update: This project won Special Technology Award and $30 reward in POW Hackathon 2021.
+
 ## ☃️ IDAChristmas
+IDAChristmas is IDA-Pro coloring plugin brings christmas mood into IDA-View. 
 > Do you wanna build a christmas tree? 🎶  
 > Do you wanna enjoy christmas mood while doing work? 
 
